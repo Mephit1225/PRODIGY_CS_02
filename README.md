@@ -1,4 +1,4 @@
-# PRODIGY_T1234_Task2
+# PRODIGY_CS_02
 # README
 This project provides a Python script that demonstrates creating, encrypting, and decrypting images using the `Pillow` library and `NumPy`. The script allows you to generate a random image, encrypt it by inverting pixel values, and then decrypt it back to its original form.
 
